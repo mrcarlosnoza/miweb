@@ -1,2 +1,3 @@
 CONTENIDO 2
 linea 2 de archivo2
+liena para probar el fetch
