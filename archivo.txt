@@ -1,2 +1,3 @@
 CONTENIDO 1
 hola
+prueba fetch multiple
